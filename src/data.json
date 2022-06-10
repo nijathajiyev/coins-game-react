@@ -1,0 +1,29 @@
+{
+    "animal":[
+        {
+            "name":"image-1",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wildlife_at_Maasai_Mara_%28Lion%29.jpg/1200px-Wildlife_at_Maasai_Mara_%28Lion%29.jpg"
+        },
+        {
+            "name":"image-2",
+            "image":"https://nationaltoday.com/wp-content/uploads/2020/10/World-Animal.jpg"
+        },
+        {
+            "name":"image-3",
+            "image":"https://media.wired.com/photos/59822d6fbc944559d607e43a/master/pass/PeacockHP-691483428.jpg"
+        },
+        {
+            "name":"image-4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGZeGigf9vkVR-YreVENETvl2qEyaulGoGQ&usqp=CAU"
+        },
+        {
+            "name":"image-5",
+            "image":"https://www.cdc.gov/healthypets/images/covid/dog-and-cat.jpg?_=46111"
+        },
+        {
+            "name":"image-6",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMyUFLgsa1JYP7pwC0J6S2cVAjiBZI7S_nFw&usqp=CAU"
+        }
+
+    ]
+}
